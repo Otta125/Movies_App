@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_connection">There is no connection with internet</string>
+    <string name="try_again">There is error, Please try again later</string>
+    <string name="movie_image">movie image</string>
+</resources>
